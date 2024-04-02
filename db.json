@@ -1,0 +1,154 @@
+{
+  "ProductData": [
+    {
+      "id": 1,
+      "pname": "Lenova i7",
+      "pdesc": "It's a i7 configured laptop with 16GB RAM and 4GB ROM",
+      "pprice": 120000,
+      "pstatus": "Available"
+    },
+    {
+      "id": 2,
+      "pname": "Iphone 14",
+      "pdesc": "It's an Iphone 16GB RAM and 4GB ROM",
+      "pprice": 90000,
+      "pstatus": "Available"
+    },
+    {
+      "id": 3,
+      "pname": "realme C53 (Champion Gold, 128 GB)  (6 GB RAM)",
+      "pdesc": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+      "pprice": 10999,
+      "pstatus": "Out of Stock"
+    },
+    {
+      "id": 4,
+      "pname": "Cellecor 10000 mAh Power Bank",
+      "pdesc": "Weight: 220 g | Capacity: 10000 mAh",
+      "pprice": 752,
+      "pstatus": "Out of Stock"
+    },
+    {
+      "id": 5,
+      "pname": "boAt 10000 mAh Power Bank (22.5 W, Quick Charge 3.0)",
+      "pdesc": "Weight: 255 g | Capacity: 10000 mAh",
+      "pprice": 1199,
+      "pstatus": "Available"
+    },
+    {
+      "id": 6,
+      "pname": "Mi A series 80 cm",
+      "pdesc": "Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube",
+      "pprice": 13499,
+      "pstatus": "Out of Stock"
+    },
+    {
+      "id": 7,
+      "pname": "SAMSUNG 6 kg Inverter 5 Star Hygiene Steam Fully Automatic ",
+      "pdesc": "Fully Automatic Front Load Washing Machines have Great Wash Quality.",
+      "pprice": 22510,
+      "pstatus": "Available"
+    },
+    {
+      "id": 8,
+      "pname": "SLEEP SPA Dual Comfort - Hard & Soft- with Comfort Cubes",
+      "pdesc": "Length: 78 inch, Width: 60 inch, Thickness: 5 inch (6 ft 6 in x 5 ft x 5 in)",
+      "pprice": 8499,
+      "pstatus": "Out of Stock"
+    },
+    {
+      "id": 9,
+      "pname": "AUSK Men Printed Hooded Neck Cotton Blend White T-Shirt",
+      "pdesc": "10% off on Bank of Baroda Credit Card EMI Txns, up to ₹2,000 on orders of ₹10,000 and above",
+      "pprice": 299,
+      "pstatus": "Out of Stock"
+    },
+    {
+      "id": 11,
+      "pname": "Lenova i7",
+      "pdesc": "It's a i7 configured laptop with 16GB RAM and 4GB ROM",
+      "pprice": 120000,
+      "pstatus": "Out of Stock"
+    },
+    {
+      "id": 12,
+      "pname": "Lenova i7",
+      "pdesc": "It's a i7 configured laptop with 16GB RAM and 4GB ROM",
+      "pprice": 120000,
+      "pstatus": "Out of Stock"
+    },
+    {
+      "id": 13,
+      "pname": "Lenova i7",
+      "pdesc": "It's a i7 configured laptop with 16GB RAM and 4GB ROM",
+      "pprice": 120000,
+      "pstatus": "Available"
+    },
+    {
+      "id": 14,
+      "pname": "Lenova i7",
+      "pdesc": "It's a i7 configured laptop with 16GB RAM and 4GB ROM",
+      "pprice": 120000,
+      "pstatus": "Available"
+    },
+    {
+      "id": 15,
+      "pname": "Lenova i7",
+      "pdesc": "It's a i7 configured laptop with 16GB RAM and 4GB ROM",
+      "pprice": 120000,
+      "pstatus": "Out of Stock"
+    }
+  ],
+  "UserData": [
+    {
+      "id": "Prabhas",
+      "password": "Prabhas",
+      "fullname": "Prabhas Raju",
+      "email": "prabha@gmail.com",
+      "phone": "8767564534",
+      "address": "Chennai, Tamilnadu",
+      "country": "india",
+      "gender": "male"
+    },
+    {
+      "id": "Anvith",
+      "password": "Anvith",
+      "fullname": "Avnvith Avinash",
+      "email": "anvi@gmail.com",
+      "phone": "8217889327",
+      "address": "Bangalore, Karnataka",
+      "country": "india",
+      "gender": "male"
+    },
+    {
+      "id": "Rahul",
+      "password": "Dravid",
+      "fullname": "Rahul Maller",
+      "email": "rahul@gmail.com",
+      "phone": "7867564544",
+      "address": "Bangalore, Karnataka",
+      "country": "india",
+      "gender": "male"
+    },
+    {
+      "id": "Megha",
+      "password": "Megha",
+      "fullname": "Megha Hiremath",
+      "email": "megha@gmail.com",
+      "phone": "6778896756",
+      "address": "Berline, USA",
+      "country": "usa",
+      "gender": "female"
+    }
+  ],
+  "OrderedItem": [
+    {
+      "personid": "Prabhas",
+      "productNane": "Lenova i7",
+      "productDesc": "It's a i7 configured laptop with 16GB RAM and 4GB ROM",
+      "productPrice": 120000,
+      "productQuantity": 3,
+      "id": 1
+    }
+  ]
+}
